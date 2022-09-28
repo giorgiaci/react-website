@@ -1,5 +1,5 @@
 header{
-    height: 45vh;
+    height: 50vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -17,13 +17,14 @@ header{
 }
 
 /*======== HEADER SOCIAL =========*/
-.header__socials{
+
+.header__socials {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     gap: 0.8rem;
     position: absolute;
-    left: 0;
+    left: 47%;
     bottom: 2rem;
 }
 .header__socials::after {

@@ -20,11 +20,6 @@ const Footer = () => {
       </ul>
 
 
-      <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF /></a>
-        <a href="https://instagram.com"><FiInstagram /></a>
-        <a href="https://twitter.com"><IoLogoTwitter /></a>
-      </div>
 
     </footer>
   )
